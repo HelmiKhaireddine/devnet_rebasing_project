@@ -381,4 +381,4 @@ Credits:
 		jQuery (jquery.com)
 		normalizeWheel (@miorel + @pieterv of Facebook)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
-		remodifier et stasher
+		remodifier et stasher new for all
